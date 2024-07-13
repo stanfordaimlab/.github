@@ -16,9 +16,9 @@ Our projects span education, clinical informatics, and mobile computing in medic
 ## 🌈 Who We Are
 Members, employees, and affiliates of the AIM Lab include:
 
-- Larry Chu, MD, Professor of Anesthesiology, Perioperative and Pain Medicine
-- Alex Goodell, MD, Postdoctoral Fellow/Clinical Scholar, Department of Anesthesiology, Perioperative and Pain Medicine
+- Larry Chu, MD, MS. Professor of Anesthesiology, Perioperative and Pain Medicine
+- [Alex Goodell, MD, MS](https://github.com/alexgoodell). Postdoctoral Fellow/Clinical Scholar, Department of Anesthesiology, Perioperative and Pain Medicine
 - Bassam Kadry, MD. Clinical Associate Professor of Anesthesiology, Perioperative and Pain Medicine
-- Dara Rouholiman, BS, Machine Learning Engineer, Course Lead Instructor, AIM Lab, Department of Anesthesiology, Perioperative and Pain Medicine
-- Roya Saffary, MD, Clinical Associate Professor of Anesthesiology, Perioperative and Pain Medicine
-- Cliff Schmiesing, MD, Clinical Professor of Anesthesiology, Perioperative and Pain Medicine
+- [Dara Rouholiman, BS](https://github.com/darar1). Machine Learning Engineer, Course Lead Instructor, AIM Lab, Department of Anesthesiology, Perioperative and Pain Medicine
+- Roya Saffary, MD. Clinical Associate Professor of Anesthesiology, Perioperative and Pain Medicine
+- Cliff Schmiesing, MD. Clinical Professor of Anesthesiology, Perioperative and Pain Medicine
