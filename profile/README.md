@@ -1,5 +1,5 @@
 # 🩺 The AIM Lab
-The Anesthesia Informatics and Media (AIM) Lab at Stanford University was founded in 2007 by Dr. Larry Chu, a practicing anesthesiologist and pioneer in the field of anesthesia informatics.
+The Anesthesia Informatics and Media (AIM) Lab at Stanford University was founded in 2007 by Dr. Larry Chu, a practicing anesthesiologist and leader in the field of anesthesia informatics.
 
 ## 🏥 Our work
 Our projects span education, clinical informatics, and mobile computing in medicine. No matter what we do, we aim to innovate user-centered solutions to healthcare IT. Our work has been honored by funding and awards from the National Institue of Health, the Agency for Healthcare Research Quality, IARS, Society for Technology in Anesthesia, and Medicine 2.0 among others. Over the last 20 years, the AIM lab has pioneered new approaches to inclusion of technology in anesthesia and medicine as a whole. Notable events include:
